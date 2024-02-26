@@ -1,0 +1,15 @@
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\bin\Debug\WpfApp27.exe.config
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\bin\Debug\WpfApp27.exe
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\bin\Debug\WpfApp27.pdb
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.csproj.AssemblyReference.cache
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\MainWindow.g.cs
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\App.g.cs
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27_MarkupCompile.cache
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27_MarkupCompile.lref
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\MainWindow.baml
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.g.resources
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.Properties.Resources.resources
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.csproj.GenerateResource.cache
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.csproj.CoreCompileInputs.cache
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.exe
+C:\Users\User.work-pc\source\repos\WpfApp27\WpfApp27\obj\Debug\WpfApp27.pdb
